@@ -1,6 +1,9 @@
 # 📊 Sales Analytics – BigQuery & Python Project
 
-# 📊 Sales Analytics – BigQuery & Python Project
+![Python](https://img.shields.io/badge/Python-3.10-blue)
+![BigQuery](https://img.shields.io/badge/Google%20BigQuery-SQL-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 
 ## 🔎 Project Overview
 This project analyzes sales data using **Google BigQuery (SQL)** and **Python (Pandas, Matplotlib)**.  
@@ -15,7 +18,19 @@ The goal is to identify revenue trends across continents, countries, and product
 - Matplotlib
 - Google Colab
 
----
+## 🗄 SQL Data Extraction
+
+The dataset was built using a multi-table JOIN query in BigQuery, combining:
+
+- orders
+- sessions
+- session parameters
+- products
+- account data
+
+The full SQL query is available in:
+
+sql/sales_dataset_query.sql
 
 ## 📂 Dataset Structure
 The dataset includes:
