@@ -78,3 +78,11 @@ The project includes:
 2. Install requirements:
    ```bash
    pip install -r requirements.txt
+
+## 📊 Visualizations
+
+### 🌍 Top 5 Countries
+![Top Countries](images/top_countries.png)
+
+### 🛋️ Top 5 Categories
+![Top Categories](images/top_categories.png)
