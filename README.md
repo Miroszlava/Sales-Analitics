@@ -8,7 +8,6 @@
 This project analyzes sales data using **Google BigQuery (SQL)** and **Python (Pandas, Matplotlib)**.  
 The goal is to identify revenue trends across continents, countries, and product categories.
 
----
 
 ## 🛠 Tech Stack
 - Google BigQuery (SQL)
