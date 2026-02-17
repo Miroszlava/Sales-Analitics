@@ -4,7 +4,6 @@
 ![BigQuery](https://img.shields.io/badge/Google%20BigQuery-SQL-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
-
 ## 🔎 Project Overview
 This project analyzes sales data using **Google BigQuery (SQL)** and **Python (Pandas, Matplotlib)**.  
 The goal is to identify revenue trends across continents, countries, and product categories.
