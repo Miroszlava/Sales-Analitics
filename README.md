@@ -82,7 +82,7 @@ The project includes:
 ## 📊 Visualizations
 
 ### 🌍 Top 5 Countries
-![Top Countries](images/top_countries.png)
+![Top Countries](images/top_countries (2).png)
 
 ### 🛋️ Top 5 Categories
-![Top Categories](images/top_categories.png)
+![Top Categories](images/top_categories (2).png)
