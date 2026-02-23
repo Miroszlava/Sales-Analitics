@@ -51,16 +51,19 @@ The final dataset contains:
 ## 📈 Key Analysis
 
 ### 🌍 Revenue by Continent
-The Americas generate the highest revenue, significantly outperforming other continents.  
-Asia and Europe follow, while Africa and Oceania contribute only marginally.
+The Americas represent the primary revenue driver, significantly outperforming other regions.
+This suggests strong market penetration and demand concentration in this region.
+Asia and Europe follow at a moderate distance, indicating potential for strategic expansion and market optimization.
 
 ### 🌎 Top 5 Countries by Revenue
-The United States dominates revenue generation, far exceeding other countries.  
-India and Canada follow at a considerable distance, while the United Kingdom and France generate significantly lower revenue.
+The United States dominates revenue generation by a substantial margin.
+India and Canada form a secondary tier, while the United Kingdom and France contribute comparatively smaller shares.
+This distribution highlights the dependency on the US market and potential risk concentration.
 
 ### 🛋 Top Product Categories
-Sofas & armchairs lead revenue generation, followed by Chairs and Beds.  
-Storage-related furniture such as Bookcases and Cabinets contribute less but remain significant.
+"Sofas & armchairs" generate the highest revenue, followed by Chairs and Beds.
+Large furniture categories drive the majority of sales performance, while storage-related products contribute moderately.
+This suggests customer demand is concentrated around high-value household essentials.
 
 ---
 
